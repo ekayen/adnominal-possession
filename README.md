@@ -1,5 +1,4 @@
-# Adnominal possesion:
-## A LinGO Grammar Matrix library
+## Adnominal possesion: A LinGO Grammar Matrix library
 
 In 2018, I wrote a library that extended the [LinGO Grammar Matrix](http://matrix.ling.washington.edu/index.html) to cover adnominal possessive phrases. 
 
