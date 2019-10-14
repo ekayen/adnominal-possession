@@ -8,4 +8,4 @@ The Grammar Matrix is an svn-based project, and the code can be checked out here
 
 If you want to try out using the Grammar Matrix, you can visit the [matrix customization page](http://matrix.ling.washington.edu/customize/matrix.cgi).
 
-If you want to read about the adnominal possession library, you can check out my thesis (`thesis.pdf`) or the paper I presented with Emily Bender at HPSG 2018 (`hpsg2018.pdf`).
+If you want to read about the adnominal possession library, you can check out my master's thesis (thesis.pdf) or the paper I presented with Emily Bender at HPSG 2018 (hpsg2018.pdf).
